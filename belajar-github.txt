@@ -1,6 +1,6 @@
 Belajar git & github
-1.
-2.
+1.Dasar - dasar Github
+2.Github & Git
 3.
 4.
 5.
