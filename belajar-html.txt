@@ -2,3 +2,4 @@ Belajar HTML dasar
 1.mempelajari apaitu HTML
 2.Element yang ada di HTML
 3.Element semantic HTML5
+4.Image element HTML5
